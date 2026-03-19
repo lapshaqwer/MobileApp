@@ -35,63 +35,63 @@
 
 Рисунок 1 – Окно отладки и первый взгляд на приложение
 
-![Скриншот 2](images/screenshot2.png)
+![Скриншот 2](images/screenshot9.png)
 
 Рисунок 2 – Интерфейс Java. Рабочая область
 
-![Скриншот 3](images/screenshot3.png)
+![Скриншот 3](images/screenshot10.png)
 
 Рисунок 3 – Интерфейс xml. Содержимое файла AndroidManifest.xml
 
-![Скриншот 4](images/screenshot4.png)
+![Скриншот 4](images/screenshot11.png)
 
 Рисунок 4 – Содержимое файла String.xml
 
-![Скриншот 5](images/screenshot5.png)
+![Скриншот 5](images/screenshot12.png)
 
 Рисунок 5 – Создание класса DrawView
 
-![Скриншот 6](images/screenshot6.png)
+![Скриншот 6](images/screenshot13.png)
 
 Рисунок 6 – Создание метода для рисования и создание прямоугольника и круга красного цвета
 
-![Скриншот 7](images/screenshot7.png)
+![Скриншот 7](images/screenshot14.png)
 
 Рисунок 7 – Создание отрезка
 
-![Скриншот 8](images/screenshot8.png)
+![Скриншот 8](images/screenshot15.png)
 
 Рисунок 8 – Создание треугольника
 
-![Скриншот 9](images/screenshot9.png)
+![Скриншот 9](images/screenshot2.png)
 
 Рисунок 9 – Результат проделанной работы
 
-![Скриншот 10](images/screenshot10.png)
+![Скриншот 10](images/screenshot3.png)
 
 Рисунок 10 – Расчет и создание квадрата
 
-![Скриншот 11](images/screenshot11.png)
+![Скриншот 11](images/screenshot4.png)
 
 Рисунок 11 – Заливка фигуры оранжевым цветом
 
-![Скриншот 12](images/screenshot12.png)
+![Скриншот 12](images/screenshot5.png)
 
 Рисунок 12 – Результат выполнения задания
 
-![Скриншот 13](images/screenshot13.png)
+![Скриншот 13](images/screenshot6.png)
 
 Рисунок 13 – Создание класса onDraw, холста и создание силуэта ножниц
 
-![Скриншот 14](images/screenshot14.png)
+![Скриншот 14](images/screenshot7.png)
 
 Рисунок 14 – Создание ручек
 
-![Скриншот 15](images/screenshot15.png)
+![Скриншот 15](images/screenshot8.png)
 
 Рисунок 15 – Создание рукояток красного цвета и соединения
 
-![Скриншот 16](images/screenshot16.png)
+![Скриншот 16](images/screenshot9.png)
 
 Рисунок 16 – Результат выполнения работы
 
